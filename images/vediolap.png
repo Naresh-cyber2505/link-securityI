@@ -1,0 +1,1524 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <script>
+
+        const cookiesAccept = document.cookie.match('(^|;) ?CookiesAccept=([^;]*)(;|$)');
+
+        if (cookiesAccept !== null) {
+            if (cookiesAccept[2] != "gaDecline") {
+                if ('GTM-KQJQJF9' != '') {
+                    (function (w, d, s, l, i) {
+                        w[l] = w[l] || []; w[l].push({
+                            'gtm.start':
+                                new Date().getTime(), event: 'gtm.js'
+                        }); var f = d.getElementsByTagName(s)[0],
+                            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+                    })(window, document, 'script', 'dataLayer', 'GTM-KQJQJF9');
+                }
+            }
+        }
+    </script>
+
+        <meta name="robots" content="index,follow">
+
+    <title>Presentation interim report Jan-June 2021</title>
+    <link rel="shortcut icon" sizes="16x16" href="/build/brand/favicon-16x16.png" type="image/png" />
+    <link rel="shortcut icon" sizes="32x32" href="/build/brand/favicon-32x32.png" type="image/png" />
+
+    <link rel="stylesheet" type="text/css" href="/build/site.min.css?v=637665385760000000">
+
+    <link href="https://www.securitas.com/en/investors/webcasts-and-audiocasts/presentation-interim-report-jan-june-2021/" rel="canonical" />
+    <link href="/en/investors/webcasts-and-audiocasts/presentation-interim-report-jan-june-2021/" hreflang="en" rel="alternate" /><link href="/sv/investerare/webb--och-ljudsandningar/presentation-delarsrapport-jan-juni-2021/" hreflang="sv" rel="alternate" />
+
+    <meta property="og:title" content="Presentation interim report Jan-June 2021" />
+    <meta property="og:url" content="/en/investors/webcasts-and-audiocasts/presentation-interim-report-jan-june-2021/" />
+    
+
+
+     
+    
+<script type="text/javascript">var appInsights=window.appInsights||function(config){function t(config){i[config]=function(){var t=arguments;i.queue.push(function(){i[config].apply(i,t)})}}var i={config:config},u=document,e=window,o="script",s="AuthenticatedUserContext",h="start",c="stop",l="Track",a=l+"Event",v=l+"Page",r,f;setTimeout(function(){var t=u.createElement(o);t.src=config.url||"https://az416426.vo.msecnd.net/scripts/a/ai.0.js";u.getElementsByTagName(o)[0].parentNode.appendChild(t)});try{i.cookie=u.cookie}catch(y){}for(i.queue=[],r=["Event","Exception","Metric","PageView","Trace","Dependency"];r.length;)t("track"+r.pop());return t("set"+s),t("clear"+s),t(h+a),t(c+a),t(h+v),t(c+v),t("flush"),config.disableExceptionTracking||(r="onerror",t("_"+r),f=e[r],e[r]=function(config,t,u,e,o){var s=f&&f(config,t,u,e,o);return s!==!0&&i["_"+r](config,t,u,e,o),s}),i}({instrumentationKey:"19814a0b-6c5c-45b6-8283-efcb099dab1c",sdkExtension:"a"});window.appInsights=appInsights;appInsights.queue&&appInsights.queue.length===0&&appInsights.trackPageView();</script></head>
+
+<body class="theme__default newspage">
+    <input id="search-page-url" type="hidden" value="/en/search-page/"/>
+    
+        <!-- Google Tag Manager (noscript) -->
+        <noscript>
+            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJQJF9" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+        <!-- End Google Tag Manager (noscript) -->
+
+    <a class="skip-to-main" href="#main-content">Skip to main content</a>
+
+
+<header class="header js-header">
+    <div class="header__outer">
+        <div class="header__inner">
+            <nav class="header__nav--primary">
+                <a href="/en/" class="header__title"> Securitas</a>
+                <button id="button__mobile" class="button__mobile js-toggle-mobile-menu ">
+                    <div class="button__mobile--burger">
+                        <div class="button__mobile--line"></div>
+                    </div>
+                </button>
+                <div class="separator"></div>
+                <div class="link__container">
+                    <ul id="nav-list" class="link__list">
+                            <li class="header__link--wrapper">
+                                <a class="header__link js-megamenu-toggle" href="/en/security-services/" aria-haspopup=true>
+                                    <span>Services</span>
+                                        <svg>
+                                            <use xlink:href="/build/spritemap/securitas.spritemap.svg#sprite-chevron-down--white"></use>
+                                        </svg>
+                                </a>
+                                
+                                    <div class="header__sub--wrapper" aria-expanded="false">
+                                        <section>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/security-services/security-guarding/" class="card__linkparent ">Security guarding</a>
+
+                                                            <ul>
+                                                                    <li>
+                                                                        <a href="/en/security-services/security-guarding/on-site-guarding/" class="card__link ">On-site guarding</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/security-services/security-guarding/mobile-patrol/" class="card__link ">Mobile patrol </a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/security-services/security-guarding/securitas-operations-center/" class="card__link ">Securitas operations center</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/security-services/security-guarding/canine-security/" class="card__link ">Canine security</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/security-services/security-guarding/reception-services/" class="card__link ">Reception services</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/security-services/security-guarding/loss-prevention/" class="card__link ">Loss prevention</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/security-services/security-guarding/screening-services/" class="card__link ">Screening services</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/security-services/security-guarding/track-and-trace/" class="card__link ">Track and trace</a>
+                                                                    </li>
+                                                            </ul>
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/security-services/remote-video-solutions/" class="card__linkparent ">Remote video solutions</a>
+
+                                                            <ul>
+                                                                    <li>
+                                                                        <a href="/en/security-services/remote-video-solutions/alarm-verification/" class="card__link ">Alarm verification</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/security-services/remote-video-solutions/access-management/" class="card__link ">Access management</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/security-services/remote-video-solutions/area-protection/" class="card__link ">Area protection</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/security-services/remote-video-solutions/remote-patrolling/" class="card__link ">Remote patrolling</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/security-services/remote-video-solutions/video-surveillance/" class="card__link ">Video surveillance</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/security-services/remote-video-solutions/remote-business-intelligence/" class="card__link ">Remote business intelligence</a>
+                                                                    </li>
+                                                            </ul>
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/security-services/aviation-security/" class="card__linkparent ">Aviation security</a>
+
+                                                            <ul>
+                                                                    <li>
+                                                                        <a href="/en/security-services/aviation-security/screening/" class="card__link ">Screening</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/security-services/aviation-security/physical-security/" class="card__link ">Physical security</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/security-services/aviation-security/airline-security/" class="card__link ">Airline security</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/security-services/aviation-security/hospitality/" class="card__link ">Hospitality</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/security-services/aviation-security/consultancy/" class="card__link ">Consultancy</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/security-services/aviation-security/aviation-business-center/" class="card__link ">Aviation Business Center</a>
+                                                                    </li>
+                                                            </ul>
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/security-services/electronic-security/" class="card__linkparent ">Electronic security</a>
+
+                                                            <ul>
+                                                                    <li>
+                                                                        <a href="/en/security-services/electronic-security/access-control/" class="card__link ">Access control</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/security-services/electronic-security/video-security/" class="card__link ">Video security</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/security-services/electronic-security/system-design-and-installation/" class="card__link ">System design and installation</a>
+                                                                    </li>
+                                                            </ul>
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/security-services/fire-and-safety/" class="card__linkparent ">Fire and safety</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/security-services/enterprise-risk-management/" class="card__linkparent ">Enterprise risk management</a>
+
+                                                            <ul>
+                                                                    <li>
+                                                                        <a href="/en/security-services/enterprise-risk-management/risk-and-security-management/" class="card__link ">Risk and security management</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/security-services/enterprise-risk-management/executive-protection/" class="card__link ">Executive protection</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/security-services/enterprise-risk-management/security-consulting/" class="card__link ">Security consulting</a>
+                                                                    </li>
+                                                            </ul>
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/security-services/intelligent-security/" class="card__linkparent ">Intelligent security</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/security-services/home-alarms/" class="card__linkparent ">Home alarms</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/security-services/securitas-experience-center/" class="card__linkparent ">Securitas Experience Center</a>
+
+
+                                                    </li>
+                                                </ul>
+                                            <div class="menu__preamble">
+                                                <div class="menu__preamble--inner">
+                                                    <div class="preview__headline">Security services</div>
+                                                    <div class="preview__copyright">
+                                                        <div></div>
+                                                        <div></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                    </div>
+
+                            </li>
+                            <li class="header__link--wrapper">
+                                <a class="header__link js-megamenu-toggle" href="/en/security-solutions/" aria-haspopup=true>
+                                    <span>Solutions</span>
+                                        <svg>
+                                            <use xlink:href="/build/spritemap/securitas.spritemap.svg#sprite-chevron-down--white"></use>
+                                        </svg>
+                                </a>
+                                
+                                    <div class="header__sub--wrapper" aria-expanded="false">
+                                        <section>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/security-solutions/aviation/" class="card__linkparent ">Aviation</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/security-solutions/construction/" class="card__linkparent ">Construction</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/security-solutions/critical-infrastructure/" class="card__linkparent ">Critical infrastructure</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/security-solutions/data-centers/" class="card__linkparent ">Data centers</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/security-solutions/global-clients/" class="card__linkparent ">Global clients</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/security-solutions/industry-manufacturing/" class="card__linkparent ">Industry/Manufacturing</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/security-solutions/maritime/" class="card__linkparent ">Maritime</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/security-solutions/offices/" class="card__linkparent ">Offices</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/security-solutions/retail/" class="card__linkparent ">Retail</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/security-solutions/residential/" class="card__linkparent ">Residential</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/security-solutions/small-and-medium-enterprises/" class="card__linkparent ">Small and medium enterprises</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/security-solutions/covid-19/" class="card__linkparent ">Covid-19</a>
+
+
+                                                    </li>
+                                                </ul>
+                                            <div class="menu__preamble">
+                                                <div class="menu__preamble--inner">
+                                                    <div class="preview__headline">Security solutions</div>
+                                                    <div class="preview__copyright">
+                                                        <div></div>
+                                                        <div></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                    </div>
+
+                            </li>
+                            <li class="header__link--wrapper">
+                                <a class="header__link js-megamenu-toggle" href="/en/about-us/" aria-haspopup=true>
+                                    <span>About us</span>
+                                        <svg>
+                                            <use xlink:href="/build/spritemap/securitas.spritemap.svg#sprite-chevron-down--white"></use>
+                                        </svg>
+                                </a>
+                                
+                                    <div class="header__sub--wrapper" aria-expanded="false">
+                                        <section>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/about-us/brief-facts/" class="card__linkparent ">Brief facts</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/about-us/figures-and-events/" class="card__linkparent ">Figures and events</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/about-us/our-strategy/" class="card__linkparent ">Our strategy</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/about-us/our-values/" class="card__linkparent ">Our values</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/about-us/our-purpose/" class="card__linkparent ">Our purpose</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/about-us/our-management-model/" class="card__linkparent ">Our management model</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/about-us/our-organization/" class="card__linkparent ">Our organization</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/about-us/group-management/" class="card__linkparent ">Group management</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/corporate-governance/members-of-the-board/" class="card__linkparent ">Members of the board</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/investors/financial-reports/" class="card__linkparent ">Financial reports</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/about-us/our-history/" class="card__linkparent ">Our history</a>
+
+
+                                                    </li>
+                                                </ul>
+                                            <div class="menu__preamble">
+                                                <div class="menu__preamble--inner">
+                                                    <div class="preview__headline">About us</div>
+                                                    <div class="preview__copyright">
+                                                        <div></div>
+                                                        <div></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                    </div>
+
+                            </li>
+                            <li class="header__link--wrapper">
+                                <a class="header__link js-megamenu-toggle selected" href="/en/investors/" aria-haspopup=true>
+                                    <span>Investors</span>
+                                        <svg>
+                                            <use xlink:href="/build/spritemap/securitas.spritemap.svg#sprite-chevron-down--white"></use>
+                                        </svg>
+                                </a>
+                                
+                                    <div class="header__sub--wrapper" aria-expanded="false">
+                                        <section>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/investors/financial-reports/" class="card__linkparent ">Financial reports</a>
+
+                                                            <ul>
+                                                                    <li>
+                                                                        <a href="/en/investors/financial-reports/fact-sheet/" class="card__link ">Fact sheet</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/investors/financial-reports/annual-reports/" class="card__link ">Annual reports </a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/investors/financial-reports/interim-reports/" class="card__link ">Interim reports</a>
+                                                                    </li>
+                                                            </ul>
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/investors/presentations/" class="card__linkparent ">Presentations</a>
+
+                                                            <ul>
+                                                                    <li>
+                                                                        <a href="/en/investors/presentations/interim-reports/" class="card__link ">Interim reports </a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/investors/presentations/general-meetings/" class="card__link ">General meetings</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/investors/presentations/investor-days/" class="card__link ">Investor days</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/investors/presentations/investor-presentations/" class="card__link ">Investor presentations</a>
+                                                                    </li>
+                                                            </ul>
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/investors/webcasts-and-audiocasts/" class="card__linkparent ">Webcasts and audiocasts</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/investors/the-share/" class="card__linkparent ">The share</a>
+
+                                                            <ul>
+                                                                    <li>
+                                                                        <a href="/en/investors/the-share/share-graph/" class="card__link ">Share graph</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/investors/the-share/alternative-exchange-monitor/" class="card__link ">Alternative exchange monitor</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/investors/the-share/investment-calculator/" class="card__link ">Investment calculator</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/investors/the-share/share-price-history/" class="card__link ">Share price history</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/investors/the-share/development-of-share-capital/" class="card__link ">Development of share capital</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/investors/the-share/dividend/" class="card__link ">Dividend</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/investors/the-share/major-shareholders/" class="card__link ">Major shareholders</a>
+                                                                    </li>
+                                                            </ul>
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/investors/financial-calendar/" class="card__linkparent ">Financial calendar</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/investors/analyst-and-recommendations/" class="card__linkparent ">Analyst and recommendations</a>
+
+                                                            <ul>
+                                                                    <li>
+                                                                        <a href="/en/investors/analyst-and-recommendations/analysts/" class="card__link ">Analysts</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/investors/analyst-and-recommendations/consensus-estimates/" class="card__link ">Consensus estimates</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/investors/analyst-and-recommendations/recommendations/" class="card__link ">Recommendations</a>
+                                                                    </li>
+                                                            </ul>
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/investors/financial-model-and-targets/" class="card__linkparent ">Financial model and targets</a>
+
+                                                            <ul>
+                                                                    <li>
+                                                                        <a href="/en/investors/financial-model-and-targets/understanding-our-finances/" class="card__link ">Understanding our finances</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/investors/financial-model-and-targets/our-financial-model/" class="card__link ">Our financial model</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/investors/financial-model-and-targets/group-financial-targets/" class="card__link ">Group financial targets </a>
+                                                                    </li>
+                                                            </ul>
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/investors/financial-data/" class="card__linkparent ">Financial data</a>
+
+                                                            <ul>
+                                                                    <li>
+                                                                        <a href="/en/investors/financial-data/annual-data/" class="card__link ">Annual data</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/investors/financial-data/quarterly-data/" class="card__link ">Quarterly data</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/investors/financial-data/accounting-principles/" class="card__link ">Accounting principles</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/investors/financial-data/group-tax-policy/" class="card__link ">Group tax policy</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/investors/financial-data/group-development/" class="card__link ">Group development</a>
+                                                                    </li>
+                                                            </ul>
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/investors/funding/" class="card__linkparent ">Funding</a>
+
+                                                            <ul>
+                                                                    <li>
+                                                                        <a href="/en/investors/funding/debt-rating/" class="card__link ">Debt rating</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/investors/funding/listing-documents/" class="card__link ">Listing documents</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/investors/funding/debt-investor-presentations/" class="card__link ">Debt investor presentations</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/investors/funding/credit-facilities/" class="card__link ">Credit facilities</a>
+                                                                    </li>
+                                                            </ul>
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/investors/acquisitions-and-divestitures/" class="card__linkparent ">Acquisitions and divestitures</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/investors/investor-relations-contacts/" class="card__linkparent ">Investor relations contacts</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/investors/order-and-subscribe/" class="card__linkparent ">Order and subscribe</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/investors/securitas-investor-relations-app/" class="card__linkparent ">Investor relations app</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/investors/opportunity-for-growth/" class="card__linkparent ">Opportunity for growth</a>
+
+
+                                                    </li>
+                                                </ul>
+                                            <div class="menu__preamble">
+                                                <div class="menu__preamble--inner">
+                                                    <div class="preview__headline">Investors</div>
+                                                    <div class="preview__copyright">
+                                                        <div></div>
+                                                        <div></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                    </div>
+
+                            </li>
+                            <li class="header__link--wrapper">
+                                <a class="header__link js-megamenu-toggle" href="/en/corporate-governance/" aria-haspopup=true>
+                                    <span>Corporate governance</span>
+                                        <svg>
+                                            <use xlink:href="/build/spritemap/securitas.spritemap.svg#sprite-chevron-down--white"></use>
+                                        </svg>
+                                </a>
+                                
+                                    <div class="header__sub--wrapper" aria-expanded="false">
+                                        <section>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/corporate-governance/corporate-governance-code/" class="card__linkparent ">Corporate governance code</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/corporate-governance/corporate-governance-organization/" class="card__linkparent ">Corporate governance organization</a>
+
+                                                            <ul>
+                                                                    <li>
+                                                                        <a href="/en/corporate-governance/corporate-governance-organization/nomination-committee/" class="card__link ">Nomination committee</a>
+                                                                    </li>
+                                                            </ul>
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/corporate-governance/enterprise-risk-management/" class="card__linkparent ">Enterprise risk management </a>
+
+                                                            <ul>
+                                                                    <li>
+                                                                        <a href="/en/corporate-governance/enterprise-risk-management/input-and-risk-identification/" class="card__link ">Input and risk identification</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/corporate-governance/enterprise-risk-management/policy-development/" class="card__link ">Policy development</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/corporate-governance/enterprise-risk-management/risk-management-activities/" class="card__link ">Risk management activities</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/corporate-governance/enterprise-risk-management/risk-based-monitoring/" class="card__link ">Risk-based monitoring</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/corporate-governance/enterprise-risk-management/insurance-as-a-risk-management-tool/" class="card__link ">Insurance as a risk management tool</a>
+                                                                    </li>
+                                                            </ul>
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/corporate-governance/general-meetings/" class="card__linkparent ">General meetings</a>
+
+                                                            <ul>
+                                                                    <li>
+                                                                        <a href="/en/corporate-governance/general-meetings/annual-general-meeting-2021/" class="card__link ">Annual general meeting 2021</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/corporate-governance/general-meetings/extraordinary-general-meeting-2020/" class="card__link ">Extraordinary general meeting 2020</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/corporate-governance/general-meetings/previous-general-meetings/" class="card__link ">Previous general meetings</a>
+                                                                    </li>
+                                                            </ul>
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/corporate-governance/board-of-directors/" class="card__linkparent ">Board of directors</a>
+
+                                                            <ul>
+                                                                    <li>
+                                                                        <a href="/en/corporate-governance/board-of-directors/responsibilities-and-work-procedures/" class="card__link ">Responsibilities and work procedures</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/corporate-governance/board-of-directors/independence-of-board-members/" class="card__link ">Independence of board members</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/corporate-governance/board-of-directors/remuneration-committee/" class="card__link ">Remuneration committee 2021</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/corporate-governance/board-of-directors/audit-committee/" class="card__link ">Audit committee 2021</a>
+                                                                    </li>
+                                                            </ul>
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/corporate-governance/members-of-the-board/" class="card__linkparent ">Members of the board</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/about-us/group-management/" class="card__linkparent ">Group management</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/corporate-governance/remuneration-to-senior-management/" class="card__linkparent ">Remuneration to senior management</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/corporate-governance/external-audit/" class="card__linkparent ">External audit</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/corporate-governance/internal-audit/" class="card__linkparent ">Internal audit</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/corporate-governance/corporate-governance-report-and-internal-control-report/" class="card__linkparent ">Corporate governance report</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/corporate-governance/articles-of-association/" class="card__linkparent ">Articles of association</a>
+
+
+                                                    </li>
+                                                </ul>
+                                            <div class="menu__preamble">
+                                                <div class="menu__preamble--inner">
+                                                    <div class="preview__headline">Corporate governance</div>
+                                                    <div class="preview__copyright">
+                                                        <div></div>
+                                                        <div></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                    </div>
+
+                            </li>
+                            <li class="header__link--wrapper">
+                                <a class="header__link js-megamenu-toggle" href="/en/sustainability/" aria-haspopup=true>
+                                    <span>Sustainability</span>
+                                        <svg>
+                                            <use xlink:href="/build/spritemap/securitas.spritemap.svg#sprite-chevron-down--white"></use>
+                                        </svg>
+                                </a>
+                                
+                                    <div class="header__sub--wrapper" aria-expanded="false">
+                                        <section>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/sustainability/our-approach-to-sustainability/" class="card__linkparent ">Our approach to sustainability </a>
+
+                                                            <ul>
+                                                                    <li>
+                                                                        <a href="/en/sustainability/our-approach-to-sustainability/sustainability-generates-added-value/" class="card__link ">Sustainability generates added value</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/sustainability/our-approach-to-sustainability/local-decision-making/" class="card__link ">Local decision-making</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/sustainability/our-approach-to-sustainability/work-guided-by-three-values/" class="card__link ">Work guided by three values</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/sustainability/our-approach-to-sustainability/system-for-reporting-non-compliance/" class="card__link ">System for reporting non-compliance</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/sustainability/our-approach-to-sustainability/securitas-integrity-line/" class="card__link ">Securitas integrity line</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/sustainability/our-approach-to-sustainability/international-ethics-codes/" class="card__link ">International ethics codes</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/sustainability/our-approach-to-sustainability/well-developed-sustainability-system/" class="card__link ">Well-developed sustainability system</a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="/en/sustainability/our-approach-to-sustainability/reducing-business-risks/" class="card__link ">Reducing business risks</a>
+                                                                    </li>
+                                                            </ul>
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/sustainability/sustainability-report/" class="card__linkparent ">Sustainability report</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/sustainability/sustainability-strategy/" class="card__linkparent ">Sustainability strategy</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/sustainability/meeting-stakeholder-demands/" class="card__linkparent ">Meeting stakeholder demands</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/sustainability/dialog-leeds-to-improvments/" class="card__linkparent ">Dialog leads to improvement</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/sustainability/far-reaching-social-commitment/" class="card__linkparent ">Far-reaching social commitment</a>
+
+                                                            <ul>
+                                                                    <li>
+                                                                        <a href="/en/sustainability/far-reaching-social-commitment/supporting-local-communities/" class="card__link ">Supporting local communities</a>
+                                                                    </li>
+                                                            </ul>
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/sustainability/widespread-financial-influence/" class="card__linkparent ">Widespread financial influence</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/sustainability/environmental-policy-reduces-emissions/" class="card__linkparent ">Environmental policy reduces emissions</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/sustainability/sustainability-contact/" class="card__linkparent ">Sustainability contact</a>
+
+
+                                                    </li>
+                                                </ul>
+                                            <div class="menu__preamble">
+                                                <div class="menu__preamble--inner">
+                                                    <div class="preview__headline">Sustainability</div>
+                                                    <div class="preview__copyright">
+                                                        <div></div>
+                                                        <div></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                    </div>
+
+                            </li>
+                            <li class="header__link--wrapper">
+                                <a class="header__link js-megamenu-toggle" href="/en/news/" aria-haspopup=true>
+                                    <span>News</span>
+                                        <svg>
+                                            <use xlink:href="/build/spritemap/securitas.spritemap.svg#sprite-chevron-down--white"></use>
+                                        </svg>
+                                </a>
+                                
+                                    <div class="header__sub--wrapper" aria-expanded="false">
+                                        <section>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/news/press-releases2/" class="card__linkparent ">Press releases</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/news/press-contacts/" class="card__linkparent ">Press contacts</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/news/subscribe-to-press-releases/" class="card__linkparent ">Subscribe to press releases</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/news/social-media/" class="card__linkparent ">Social media</a>
+
+
+                                                    </li>
+                                                </ul>
+                                            <div class="menu__preamble">
+                                                <div class="menu__preamble--inner">
+                                                    <div class="preview__headline">News</div>
+                                                    <div class="preview__copyright">
+                                                        <div></div>
+                                                        <div></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                    </div>
+
+                            </li>
+                            <li class="header__link--wrapper">
+                                <a class="header__link js-megamenu-toggle" href="/en/careers/" aria-haspopup=true>
+                                    <span>Careers</span>
+                                        <svg>
+                                            <use xlink:href="/build/spritemap/securitas.spritemap.svg#sprite-chevron-down--white"></use>
+                                        </svg>
+                                </a>
+                                
+                                    <div class="header__sub--wrapper" aria-expanded="false">
+                                        <section>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/careers/melker-schorling-scholarship/" class="card__linkparent ">Melker Sch&#246;rling scholarship</a>
+
+
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        <a href="/en/careers/how-to-apply/" class="card__linkparent ">How to apply</a>
+
+
+                                                    </li>
+                                                </ul>
+                                            <div class="menu__preamble">
+                                                <div class="menu__preamble--inner">
+                                                    <div class="preview__headline">Careers</div>
+                                                    <div class="preview__copyright">
+                                                        <div></div>
+                                                        <div></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                    </div>
+
+                            </li>
+                            <li class="header__link--wrapper">
+                                <a class="header__link" href="/en/contact-us/" >
+                                    <span>Contact</span>
+                                </a>
+                                
+
+                            </li>
+                    </ul>
+                </div>
+                <div class="separator"></div>
+                <div class="header__country header__link--wrapper">
+                    <button id="language-header" class="js-language-toggle button__language header__link" aria-haspopup="true" title="Select your country and language">
+                        <svg>
+                            <use xlink:href="/build/spritemap/securitas.spritemap.svg#sprite-globe--white"></use>
+                        </svg>
+                    </button>
+                    <div id="country-selector" class="country-selector" aria-expanded="false">
+                        <section class="fluid grid">
+                            <button class="country-selector__close">
+                                <svg>
+                                    <use xlink:href="/build/spritemap/securitas.spritemap.svg#sprite-close--white"></use>
+                                </svg>
+                            </button>
+                            <div class="header__sub--inner js-country-selector"></div>
+                            <div class="menu__preamble">
+                                <div class="menu__preamble--inner">
+                                    <div class="preview__headline">Select your country and language</div>
+                                    <div class="preview__copyright">
+                                        <div></div>
+                                        <div></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+
+                    <div class="separator"></div>
+                    <div class="header__search--wrapper">
+                        <button class="js-search button__search header__link" aria-haspopup="true">
+                            <svg>
+                                <use xlink:href="/build/spritemap/securitas.spritemap.svg#sprite-search--white"></use>
+                            </svg>
+                        </button>
+                        <div class="search__panel">
+                            <div class="search__panel--inner">
+                                <div class="left">
+                                    <a href="/en/" class="header__title"> Securitas</a>
+                                    <div class="separator hide-mobile"></div>
+                                    <div class="search__wrapper">
+                                        <input type="search" placeholder="Search" id="search" />
+                                        <div class="search__results-instant">
+                                            <div class="search__results-instant-wrapper">
+                                                <div id="results">
+                                                    <ul id="results-list"></ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <button id="search-close" class="search__close">
+                                        <svg>
+                                            <use xlink:href="/build/spritemap/securitas.spritemap.svg#sprite-close--white"></use>
+                                        </svg>
+                                    </button>
+                                    <div class="separator"></div>
+                                </div>
+
+                                <div class="header__logo">
+                                    <a href="/en/">
+                                        <img src="/build/brand/securitas_ab_logo_alt.svg" alt="Securitas AB" width="55" />
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </nav>
+            <div class="header__logo">
+                <a href="/en/">
+                    <img src="/build/brand/securitas_ab_logo_alt.svg" alt="Securitas AB" width="55" />
+                </a>
+            </div>
+        </div>
+    </div>
+</header>
+    <main id="main-content">
+        
+
+
+<nav class="breadcrumbs js-breadcrumbs">
+    <div id="breadcrumbs-container" class="ol__wrapper">
+        <button id="breadcrumb-scroll-backward" class="linkbutton__text scroll__backward"></button>
+        <ol id="breadcrumbs-list" itemscope itemtype="https://schema.org/BreadcrumbList">
+            <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                <a itemprop="item" href="/">
+                    <span itemprop="name">Home</span>
+                </a>
+                <meta itemprop="position" content="Home" />
+                <svg>
+                    <use xlink:href="/build/spritemap/securitas.spritemap.svg#sprite-chevron-right--blue"></use>
+                </svg>
+            </li>
+                        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                <a itemprop="item" href="/en/investors/">
+                    <span itemprop="name">Investors</span>
+                </a>
+                <meta itemprop="position" content="Investors" />
+                <svg>
+                    <use xlink:href="/build/spritemap/securitas.spritemap.svg#sprite-chevron-right--blue"></use>
+                </svg>
+            </li>
+            <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                <a itemprop="item" href="/en/investors/webcasts-and-audiocasts/">
+                    <span itemprop="name">Webcasts and audiocasts</span>
+                </a>
+                <meta itemprop="position" content="Webcasts and audiocasts" />
+                <svg>
+                    <use xlink:href="/build/spritemap/securitas.spritemap.svg#sprite-chevron-right--blue"></use>
+                </svg>
+            </li>
+
+
+            <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                <span itemprop="name">Presentation interim report Jan-June 2021</span>
+                <meta itemprop="position" content="Presentation interim report Jan-June 2021" />
+            </li>
+        </ol>
+        <button id="breadcrumb-scroll-forward" class="linkbutton__text scroll__forward"></button>
+    </div>
+</nav>
+
+
+
+<div class="js-news-page news-page">
+    <section class="news__tpp grid grid__gap">
+        <h1>Presentation interim report Jan-June 2021</h1>
+        <p>Securitas AB published the Interim report for January-June 2021 on July 29, 2021. </p>
+        <div class="news__publishdate">
+            <div class="news__publishlabel">Published</div>
+            <div>29 July 2021 13:00</div>
+        </div>
+    </section>
+    
+
+
+    <article class="news__article">
+        <div><div><div class="js-text-block text-block grid grid__gap">
+    <div class="text-block__inner">
+        <h2>Audio cast</h2>
+<p><a href="https://securitas.videosync.fi/2021-07-29-q2_2021" target="_blank" rel="noopener">Click here to listen to a recorded version of the audio cast from the telephone conference.</a></p>
+<h2>Related documents</h2>
+<p><a href="/globalassets/com/files/interim-reports/2021/q2/q22021_eng_final.pdf" target="_blank" rel="noopener">Click here to read the interim report for January-June 2021</a></p>
+<p><a href="/globalassets/com/files/interim-reports/2021/q2/q22021_telcoppt_final.pdf" target="_blank" rel="noopener">Click here to read the presentation slides</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+    </div>
+</div></div></div>
+    </article>
+</div>
+    </main>
+
+<footer class="footer">
+    <div class="footer__inner grid">
+        <div class="securitas__logo">
+            <a href="/en/">
+                    <img src="/build/brand/securitas_ab_logo.svg" title="Securitas Logotype" alt="Securitas Logotype" width="70" />
+            </a>
+        </div>
+        <div class="footer__language">
+            <button id="language-footer" class="js-language-toggle button__language header__link" aria-haspopup="true" title="Select your country and language">
+                <span>Select your country and language</span>
+                <svg>
+                    <use xlink:href="/build/spritemap/securitas.spritemap.svg#sprite-globe--white"></use>
+                </svg>
+            </button>
+
+        </div>
+            <div class="footer__column--left footer__links">
+                <h2>Contacts</h2>
+                
+<ul>
+    
+        <li>
+            <a href="/en/careers/">Career opportunities worldwide</a> 
+        </li>
+    
+        <li>
+            <a href="https://securitas.teamtailor.com/" target="_blank" rel="noopener noreferrer">Career opportunities within Global IT &amp; Intelligent Services</a> 
+        </li>
+    
+        <li>
+            <a href="https://securitas.teamtailor.com/pages/securitas-services-europe" target="_blank" rel="noopener noreferrer">Career opportunities within our European division</a> 
+        </li>
+    
+        <li>
+            <a href="/en/news/press-contacts/">Press contacts</a> 
+        </li>
+    
+        <li>
+            <a href="/en/investors/investor-relations-contacts/">Investor relations contacts</a> 
+        </li>
+    
+</ul>
+            </div>
+                    <div class="footer__column--middle footer__links">
+                <h2>Documents for download</h2>
+                
+<ul>
+    
+        <li>
+            <a href="/globalassets/com/files/interim-reports/2021/q2/q22021_eng_final.pdf" target="_blank" rel="noopener noreferrer">Interim report Jan-June 2021</a> 
+        </li>
+    
+        <li>
+            <a href="/globalassets/com/files/annual-reports/eng/securitas_annual_sustainability_report_2020.pdf" target="_blank" rel="noopener noreferrer">Annual and Sustainability Report 2020</a> 
+        </li>
+    
+        <li>
+            <a href="https://annualreport.securitas.com/" target="_blank" rel="noopener noreferrer">Digital version of the Annual and Sustainability Report 2020</a> 
+        </li>
+    
+</ul>
+            </div>
+                    <div class="footer__column--right footer__links">
+                <h2>Sitemap and policies</h2>
+                
+<ul>
+    
+        <li>
+            <a href="/en/about-us/site-map/">Sitemap for securitas.com</a> 
+        </li>
+    
+        <li>
+            <a href="/en/about-us/privacy-policy/">Privacy notice</a> 
+        </li>
+    
+        <li>
+            <a href="/en/about-us/cookie-policy/">Cookie policy</a> 
+        </li>
+    
+        <li>
+            <a href="/en/about-us/responsible-disclosure/">Responsible disclosure</a> 
+        </li>
+    
+</ul>
+            </div>
+
+
+        <div class="footer__copyright">
+            &#169; Securitas AB, 2020 
+        </div>
+        <div class="footer__social">
+            <ul>
+                    <li>
+                        <a class="linkedin__anchor" href="https://www.linkedin.com/company/securitas-group/" target="_blank" rel="noopener noreferrer">
+                            <svg>
+                                <use xlink:href="/build/spritemap/securitas.spritemap.svg#sprite-linkedin--white"></use>
+                            </svg>
+                        </a>
+                    </li>
+                                    <li>
+                        <a class="twitter__anchor" href="https://twitter.com/Securitas_Group" target="_blank" rel="noopener noreferrer">
+                            <svg>
+                                <use xlink:href="/build/spritemap/securitas.spritemap.svg#sprite-twitter--white"></use>
+                            </svg>
+                        </a>
+                    </li>
+                                    <li>
+                        <a class="youtube__anchor" href="https://www.youtube.com/user/SecuritasGroup" target="_blank" rel="noopener noreferrer">
+                            <svg>
+                                <use xlink:href="/build/spritemap/securitas.spritemap.svg#sprite-youtube--white"></use>
+                            </svg>
+                        </a>
+                    </li>
+                                    <li>
+                        <a class="facebook__anchor" href="https://www.facebook.com/securitasgroup/" target="_blank" rel="noopener noreferrer">
+                            <svg>
+                                <use xlink:href="/build/spritemap/securitas.spritemap.svg#sprite-facebook--white"></use>
+                            </svg>
+                        </a>
+                    </li>
+                                    <li>
+                        <a class="instagram__anchor" href="https://www.instagram.com/lifeatsecuritas/" target="_blank" rel="noopener noreferrer">
+                            <svg>
+                                <use xlink:href="/build/spritemap/securitas.spritemap.svg#sprite-instagram--white"></use>
+                            </svg>
+                        </a>
+                    </li>
+                                            </ul>
+        </div>
+    </div>
+</footer>
+
+    <div class="js-cookie-banner cookie__banner" data-expires="365" tabindex="-1">
+        <div class="cookie__banner--inner grid grid__gap">
+            <h2>This website uses cookies</h2>
+            <p>This website, like most websites, works best when allowed to use cookies. We use cookies to ensure that we give you the best experience on our website. We also use cookies for website statistics, which is used to improve our website. You can choose to accept our cookies during your visit by clicking &quot;Accept”, or select which cookie that you accept by clicking “Set my preferences”. </p>
+            <a id="cookie-link-text" href="/en/about-us/cookie-policy/">Click here to read our cookie policy</a>
+            <button class="js-cookies-accept button button__primary">Accept all</button>
+            <button class="js-cookies-manage button button__secondary" aria-haspopup="true">Set my preferences</button>
+        </div>
+    </div>
+
+<div class="js-cookie-modal cookie__modal">
+    <div class="cookie__modal--container">
+        <div class="cookie__modal--inner">
+            <div class="cookie__scrollbox">
+                <h3>Set my preferences</h3>
+                <p>You can decide how we use cookies on your device by adjusting the settings below. Click on “Accept all” if you accept all cookies. In this list of cookies you can choose the cookies that you would like to accept. If you do not accept the Google Analytics cookies to be stored, please leave the box unchecked. If you do not accept the Microsoft application insight cookies to be stored, please uncheck the box. All other cookies are considered as strictly necessary in order for you to be able to use and interact with the website and can therefore not be unselected. When you have made your choice, scroll down the list and then click on the “Confirm my choices” button in the bottom of the list. Please be aware that if you disable cookies you will not have access to the full functionality of the website.</p>
+                <a href="/en/about-us/cookie-policy/">Click here to read our cookie policy</a>
+                <button class="js-cookie-modal-accept button button__primary">Accept all</button>
+                <ul id="cookies__list">
+                    <li>
+                        <label for="_ga--_gat--_gid">
+                            <input type="checkbox" id="_ga--_gat--_gid" class="cookie__checkbox" />
+                            <span>Google Analytics</span>
+                        </label>
+                        <div class="cookie__group">
+                            <dl>
+                                <dt>Name: </dt>
+                                <dd>_ga</dd>
+                            </dl>
+                                <p>
+                                    Used to distinguish users. A unique identifier associated with each user is sent with each hit in order to determine which traffic belongs to which user. This cookie enables the website&#39;s owner to track a visitor’s behavior and measure the website&#39;s performance. The main purpose of this cookie is to improve the website&#39;s performance.
+                                </p>
+                            <dl>
+                                <dt>Name: </dt>
+                                <dd>_gat</dd>
+                            </dl>
+                                <p>
+                                    Used to throttle request rates for information on the website. This cookie does not store any user information. The main purpose of this cookie is to improve the website&#39;s performance.
+                                </p>
+                            <dl>
+                                <dt>Name: </dt>
+                                <dd>_gid</dd>
+                            </dl>
+                                <p>
+                                    Used to distinguish users. This cookie enables the website&#39;s owner to track a visitor’s behavior and measure the website&#39;s performance. The main purpose of this cookie is to improve the website&#39;s performance. 
+                                </p>
+                        </div>
+                    </li>
+                    <li>
+                        <label class="disabled" for="ai_session--ai_user">
+                            <input type="checkbox" checked id="ai_session--ai_user" class="cookie__checkbox" disabled/>
+                            <span>Microsoft Application Insights (always active)</span>
+                        </label>
+                        <div class="cookie__group">
+                            <dl>
+                                <dt>Name: </dt>
+                                <dd>ai_session</dd>
+                            </dl>
+                                <p>
+                                    Speeds up page loading times and overrides any security restrictions that may be applied to a browser based on the IP address from which it comes. 
+                                </p>
+                            <dl>
+                                <dt>Name: </dt>
+                                <dd>ai_user</dd>
+                            </dl>
+                                <p>
+                                    Unique user identifier cookie for counting the number of users accessing an application over time. 
+                                </p>
+                        </div>
+                    </li>
+                    <li>
+                        <label class="disabled" for="arrafinity">
+                            <input type="checkbox" checked id="arrafinity" class="cookie__checkbox" disabled />
+                            <span>Azure instance tracker (always active)</span>
+                        </label>
+                        <div class="cookie__group">
+                            <dl>
+                                <dt>Name: </dt>
+                                <dd>ARRAffinity</dd>
+                            </dl>
+                                <p>
+                                    Routes the request made through a web browser to the same machine in the DXC cloud environment. See ARRAffinity - Microsoft Azure. This cookie is deleted when you close your browser. 
+                                </p>
+                        </div>
+                    </li>
+                    <li>
+                        <label class="disabled" for="cfuid">
+                            <input type="checkbox" checked id="cfuid" class="cookie__checkbox" disabled />
+                            <span>Cloudfare (always active)</span>
+                        </label>
+                        <div class="cookie__group">
+                            <dl>
+                                <dt>Name: </dt>
+                                <dd>__cfuid</dd>
+                            </dl>
+                                <p>
+                                    Speeds up page loading times and overrides any security restrictions that may be applied to a browser based on the IP address from which it comes. 
+                                </p>
+                        </div>
+
+                    </li>
+                    <li>
+                        <label class="disabled" for="cookiesaccept">
+                            <input type="checkbox" checked id="cookiesaccept" class="cookie__checkbox" disabled />
+                            <span>Cookie acceptance tracker (always active)</span>
+                        </label>
+                        <div class="cookie__group">
+                            <dl>
+                                <dt>Name: </dt>
+                                <dd>CookiesAccept</dd>
+                            </dl>
+                                <p>
+                                    Used to keep track of whether the user has accepted the cookie usage or not. This is not set unless the visitor has clicked on &quot;Accept&quot; in the cookie banner in the bottom of the website. The main purpose of this cookie is to improve the website&#39;s performance.
+                                </p>
+                        </div>
+                    </li>
+                    <li>
+                        <label class="disabled" for="epiforms">
+                            <input type="checkbox" checked id="epiforms" class="cookie__checkbox" disabled />
+                            <span>Episserver Forms (always active)</span>
+                        </label>
+                        <div class="cookie__group">
+                            <dl>
+                                <dt>Name: </dt>
+                                <dd>EPiForm_{FormGuid}:{Username}</dd>
+                            </dl>
+                                <p>
+                                    Stores partial form submissions so that a visitor can continue with a form submission upon return. One cookie is created for each form and each logged in visitor. Stores the current submission status of the form (formGuid, submissionID, and if submission is finalized or not).
+                                </p>
+                            <dl>
+                                <dt>Name: </dt>
+                                <dd>.EPiForm_BID</dd>
+                            </dl>
+                                <p>
+                                    Identifies the form submission made to the site when a visitor submits data via an Episerver form. Stores a GUID as the browser ID.
+                                </p>
+                            <dl>
+                                <dt>Name: </dt>
+                                <dd>.EPiForm_VisitorIdentifier</dd>
+                            </dl>
+                                <p>
+                                    Identifies the form submission to the site when a visitor submits data to via an Episerver form. Stores a GUID which is the visitor identifier. Persistent (90 days from creation). 
+                                </p>
+                        </div>
+                    </li>
+                    <li>
+
+                        <label class="disabled" for="epimar">
+                            <input type="checkbox" checked id="epimar" class="cookie__checkbox" disabled />
+                            <span>Episerver visitor interaction (always active)</span>
+                        </label>
+                        <div class="cookie__group">
+                            <dl>
+                                <dt>Name: </dt>
+                                <dd>EPI-MAR-&lt;Content GUID&gt;</dd>
+                            </dl>
+                                <p>
+                                    Records a visitor’s interaction with a running website optimization test, to ensure that a visitor has a consistent experience. 
+                                </p>
+                        </div>
+                    </li>
+                    <li>
+                        <label class="disabled" for="aspnetsessionid">
+                            <input type="checkbox" checked id="aspnetsessionid" class="cookie__checkbox" disabled />
+                            <span>Microsoft session cookie (always active)</span>
+                        </label>
+                        <div class="cookie__group">
+                            <dl>
+                                <dt>Name: </dt>
+                                <dd>ASP.NET_SessionId</dd>
+                            </dl>
+                                <p>
+                                    Used to keep track of a user navigating through the website. This is used to transfer information between pages and to store information that the user might reuse on different pages. The main purpose of this cookie is to improve the website&#39;s performance.
+                                </p>
+                        </div>
+                    </li>
+                </ul>
+                <button class="js-cookie-modal-customaccept button button__primary">Confirm my choice</button>
+                <img class="spinner" src="/build/misc/tail-spin.svg" />
+            </div>
+        </div>
+    </div>
+</div>
+<div class="js-unsupported-browser unsupported__browser">
+    Sorry, www.securitas.com does not support Internet Explorer. To enjoy our website, try using a newer browser like Chrome, Safari, Firefox, or Edge.
+</div>
+    <script type="text/javascript" src="https://dl.episerver.net/13.2.7/epi-util/find.js"></script>
+<script type="text/javascript">
+if(FindApi){var api = new FindApi();api.setApplicationUrl('/');api.setServiceApiBaseUrl('/find_v2/');api.processEventFromCurrentUri();api.bindWindowEvents();api.bindAClickEvent();api.sendBufferedEvents();}
+</script>
+
+
+
+    <script src="/build/site.min.js?v=637665385740000000"></script>
+</body>
+</html>
